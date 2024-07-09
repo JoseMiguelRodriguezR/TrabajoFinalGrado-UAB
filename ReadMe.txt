@@ -4,4 +4,4 @@ This repository contains:
 - API_v1 -- the RESTful API program.
 - tfg_xatbot_Database.sql -- the data base SQL code design.
 - "Bot de Telegram per ...TFG.pdf" -- the presented acadamic paper.
-- Visual map -- system architecture scheme.
+- Visual map.png -- system architecture scheme.
