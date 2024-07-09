@@ -3,5 +3,5 @@ This repository contains:
 - BOT_v2 -- the main bot program.
 - API_v1 -- the RESTful API program.
 - tfg_xatbot_Database.sql -- the data base SQL code design.
-- "Bot de Telegram per ...TFG.pdf" -- the presented acadamic paper.
+- "Bot de Telegram per ...TFG.pdf" -- the presented academic paper.
 - Visual map.png -- system architecture scheme.
