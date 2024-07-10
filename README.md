@@ -1,15 +1,16 @@
 # XatBot - Automated Telegram Chatbot to Solve Students' Frequently Asked Questions
 
-Application developed using Dart, a programming language developed by Google, designed for web, server, mobile, and desktop application development. Its main goal is to provide a robust and efficient language for creating modern and reactive user interfaces.
-
-This is a notes web and mobile application. Some of its most important functionalities are: 
-- Cloud registration and user verification via email.
-- User login and logout of the application.
-- Creation, editing, deletion, and sharing of notes.
-- Notes cloud management.
-
-Program developed to learn the language and experiment with the fast development, object-oriented, and cross-platform features this technology offers.
-
-## Where to find the main code?
-
-The lib/ directory contains all the manually typed code. Flutter does the rest. ;)
+This code is created for academic purposes with the objective of developing an automatic, fast, efficient, and sustainable solution that still maintains a human sensibility to solve students' frequently asked questions using the Telegram Chat application.
+This is a skeleton, the first version of a program that has been designed to:
+- Provide answers to students.
+- Help them study a particular subject incrementally.
+- Allow students to contact teachers directly within the app.
+- Allow teachers to collect frequently asked questions from students about their subject to upload to the app.
+    
+## What can be found in this repository?
+- BOT_v2 -- the main bot program.
+- API_v1 -- the RESTful API program.
+- tfg_xatbot_Database.sql -- the data base SQL code design.
+- Visual map.png -- system architecture scheme.
+- "Bot de Telegram per ...TFG.pdf" -- the presented academic paper.
+- Exploring The Features Of Xatbot.mp4 -- video of the program in action. 
